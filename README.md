@@ -1,2 +1,1 @@
-# mehedx.github.io
-my site
+Personal Blog
